@@ -35,13 +35,16 @@
 ![Git](https://img.shields.io/badge/-Git-critical?logo=git&style=flat)
 
 ---
+
 ### 📌 Featured Projects
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | [🌿 Plant Disease Detection](https://github.com/Nanamshruthi/plant_disease_detection) | A machine learning model that detects plant leaf diseases from images and suggests remedies. | Python, ML, OpenCV, Streamlit |
-| [💬 Chatbot](https://github.com/Nanamshruthi/college_chatbot) | An AI-powered chatbot that answers student queries about college-related info. | Python, Gradio, NLP |
 | [🗣️ Voice to Visuals](https://github.com/Nanamshruthi/voice_to_visuals) | Converts spoken input into dynamic visual content or text-based responses. | Python, SpeechRecognition, Text-to-Image |
+| [✅ ATS Checker](https://github.com/Nanamshruthi/ats-checker) | A resume analyzer tool to check ATS (Applicant Tracking System) compatibility and suggest improvements. | React, JavaScript, Tailwind CSS |
+
+---
 
 ### 📊 GitHub Stats
 
@@ -57,4 +60,3 @@
 Feel free to connect for collaborations, project ideas, or mentorship discussions!
 
 ---
-
